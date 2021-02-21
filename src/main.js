@@ -29,6 +29,7 @@ axios.interceptors.response.use((response)=>{
   if(res.status==0){
     return res.data;
   }else if(res.status==10) {
+    // 非注册或首页界面拦截到未登录的响应跳转至登录界面
     if(path!='#/index' && path!='#/register'){
       window.location.href = '/#/login';
     }
