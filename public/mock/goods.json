@@ -1,0 +1,132 @@
+{
+  "phone":[
+    [
+      {
+        "id":"001",
+        "name":"小米10 至尊纪念版",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5ca871528d3420622f21f25be7aba58c.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"002",
+        "name":"小米10",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4a7a4f24061860901f724b6ba6d75fd9.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"003",
+        "name":"小米10 青春版",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cc563c76a7383d8030d1c23f31c60cb9.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"004",
+        "name":"Redmi K30S 至尊纪念版",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/69a0df49cff71107977bbe3b48af15fa.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"005",
+        "name":"Redmi K30 至尊纪念版",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0803dc7125ffa3447b04b1ae60f57a2b.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"006",
+        "name":"小米服务",
+        "imgUrl":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/8ade0163e9fdbd92a4b7d7ee3aeab905.jpg?thumb=1&w=50&h=50"
+      }
+    ],
+    [
+      {
+        "id":"007",
+        "name":"Redmi K30 Pro 变焦版",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/461bf013d08a7a91423cafcbc5ff9339.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"008",
+        "name":"Redmi K30 5G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/7a98170e97ca5df8f5ad2470a8a2d01e.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"009",
+        "name":"Redmi K30 4G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b2b8b609aab05d9ad184bbe5c8e8be28.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"010",
+        "name":"Redmi 10X Pro",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/22419dee5ddfa9f4a91782231d07e189.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"011",
+        "name":"Redmi 10X 5G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f774ef8332f2204a7c8fbf1b92f29e8a.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"012",
+        "name":"Redmi 10X 5G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/afa28e7477639537f556eb46e3ca5f43.jpeg?thumb=1&w=50&h=50&f=webp&q=90"
+      }
+    ],
+    [
+      {
+        "id":"013",
+        "name":"Redmi Note 9 Pro",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/76378ce289a36fcfa29f704ba90b4155.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"014",
+        "name":"Redmi Note 9 5G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/970c6b287eb89620f5ee8e2b347f6f3d.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"015",
+        "name":"Redmi Note 9 4G",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/947721c8bc4a4ecc3bca17237ee64dea.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"016",
+        "name":"Redmi Note 8 Pro",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/cba27e53367b74271a38a4515a692816.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"017",
+        "name":"Redmi Note 8",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b4534b9fd22f478314f3cbbf286b7338.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"018",
+        "name":"手机上门维修",
+        "imgUrl":"https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/84e19ece0125992449a6276e2ba333e9.png?thumb=1&w=50&h=50"
+      }
+    ],
+    [
+      {
+        "id":"019",
+        "name":"Redmi 9",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0cadc8b00dbe3b5615bd6ab657715baf.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"020",
+        "name":"Redmi 9A",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/1db88cd66ff1a6a3e75116988b7f3e12.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"021",
+        "name":"Redmi 8",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/47057d897ee2c05c9215e059e1308dc6.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"022",
+        "name":"Redmi 8A",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/77bfd346ad97807237beca297cfe2fba.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"023",
+        "name":"腾讯黑鲨游戏手机",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/f382e29367ad5852fc1adfdae1332d5c.png?thumb=1&w=50&h=50&f=webp&q=90"
+      },
+      {
+        "id":"024",
+        "name":"中国电信",
+        "imgUrl":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4d8753c35974699754af66388fc03a16.jpg?thumb=1&w=50&h=50&f=webp&q=90"
+      }
+    ]
+  ]
+}
